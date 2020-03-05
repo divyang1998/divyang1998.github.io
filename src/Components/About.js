@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 class About extends Component {
   render() {
 
@@ -32,7 +33,7 @@ class About extends Component {
                </div>
                
             </div>
-            <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+            <a href={'/DivyangArora_Resume.pdf'} className="button"><i className="fa fa-download"></i>Download Resume</a>
          </div>
       </div>
    </section>
