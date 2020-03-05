@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import pdf from '../DivyangArora_Resume.pdf'
 
 class About extends Component {
   render() {
@@ -33,7 +33,7 @@ class About extends Component {
                </div>
                
             </div>
-            <a href={'/DivyangArora_Resume.pdf'} className="button"><i className="fa fa-download"></i>Download Resume</a>
+            <a href={pdf} className="button"><i className="fa fa-download"></i>Download Resume</a>
          </div>
       </div>
    </section>
