@@ -29,7 +29,7 @@ class About extends Component {
             <div className="row">
                <div className="columns 1">
                   <h2>HEY, IT'S ME!</h2>
-                  <p>I like building awesome software. I've built websites, corporate software and even games! If you are interested, you can view some of my favorite projects through my GitHub.</p><p>Need something built or simply want to have chat? Reach out to me on social media or send me an email.</p>
+                  <p>ABC - I like building awesome software. I've built websites, corporate software and even games! If you are interested, you can view some of my favorite projects through my GitHub.</p><p>Need something built or simply want to have chat? Reach out to me on social media or send me an email.</p>
                </div>
             </div>
             <a href={pdf} className="button"><i className="fa fa-download"></i> Download Resume</a>
