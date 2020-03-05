@@ -17,7 +17,7 @@
       "zip": ""
     },
     "website": "http://www.divyang.ca",
-    "resumedownload":"./src/DivyangArora_Resume.pdf",
+    "resumedownload":"../src/DivyangArora_Resume.pdf",
     "social":[
       {
         "name":"linkedin",
